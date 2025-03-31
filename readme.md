@@ -53,8 +53,3 @@ node main.js
 
 ## Contributing
 Contributions are welcome. Please submit pull requests to enhance the functionality or fix issues.
-
-## License
-[Insert License Information Here]h GitHub.
-- **`main.js`**: The primary entry point for the application.
-- **`package-lock.json`** and **`package.json`**: Manage project dependencies.
