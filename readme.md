@@ -58,8 +58,3 @@ Contributions are welcome. Please submit pull requests to enhance the functional
 [Insert License Information Here]h GitHub.
 - **`main.js`**: The primary entry point for the application.
 - **`package-lock.json`** and **`package.json`**: Manage project dependencies.
-
-## Usage
-To use this project, follow these steps:
-
-1. **Clone the Repository**:
